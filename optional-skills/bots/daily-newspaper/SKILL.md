@@ -14,7 +14,7 @@ metadata:
 
 # Daily Newspaper Workflow Skill
 
-Turn the calendar entries, messages, notes, and articles the user chooses into a short, calm personal newspaper for the day ahead, with a source note on every item. Adapted from the Bot Cabinet Daily Newspaper starter (MIT, github.com/Dgardenhire/bot-cabinet). The workflow reads and drafts only.
+Turn the calendar entries, messages, notes, and articles the user chooses into a short, calm personal newspaper for the day ahead, with a source note on every item. Inspired by Karen X. Cheng's The Morning Newspaper; adapted by Bot Cabinet (MIT, github.com/Dgardenhire/bot-cabinet). The workflow reads and drafts only.
 
 ## When to Use
 
